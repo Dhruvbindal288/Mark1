@@ -2,7 +2,7 @@ import React from "react";
 
 function Home() {
   return (
-    <div className="h-[90vh] w-full bg-gradient-to-r from-[#00453ae6] via-[#008a78] to-green-400 flex items-center">
+    <div className="h-screen w-full bg-gradient-to-r from-[#00453ae6] via-[#008a78] to-green-400 flex items-center">
       <div className="px-6 md:px-10">
         
        
