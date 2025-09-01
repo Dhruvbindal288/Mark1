@@ -1,7 +1,7 @@
 import Card from "../components/Card";
 function Features() {
   return (
-    <div id="#innovativeFeature" className=" p-6">
+    <div id="features" className=" p-6">
       <h1 className=" text-2xl md:text-6xl text-center font-medium mb-10">
         Innovative Features
       </h1>
