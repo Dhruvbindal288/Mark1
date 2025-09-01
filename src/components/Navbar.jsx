@@ -5,7 +5,7 @@ function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="h-18 bg-[rgba(0,20,40,0.95)] w-full flex items-center justify-between px-6 md:px-10 ">
+    <nav className="h-16 bg-[rgba(0,20,40,0.95)] w-full flex items-center justify-between px-6 md:px-10 ">
       
       <div className="text-green-500 [text-shadow:0_0_4px_rgba(0,200,255,0.8)] text-3xl font-bold">
         MARK1

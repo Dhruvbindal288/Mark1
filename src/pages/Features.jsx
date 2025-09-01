@@ -2,10 +2,10 @@ import Card from "../components/Card";
 function Features() {
   return (
     <div id="#innovativeFeature" className=" p-6">
-      <h1 className="md:text-6xl text-center font-medium mb-10">
+      <h1 className=" text-2xl md:text-6xl text-center font-medium mb-10">
         Innovative Features
       </h1>
-      <div className="flex gap-4 flex-wrap">
+      <div className="flex gap-4 items-center justify-center flex-wrap">
         <Card
           text={
             "Creates a perpetual cycle of energy that intelligently utilizes power to generate more, defining true sustainability."
