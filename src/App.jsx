@@ -6,6 +6,7 @@ import HowitWorks from './pages/HowitWorks'
 import EnvironmentalImpact from './pages/EnvironmentalImpact'
 import Footer from './components/Footer'
 import { useEffect } from 'react'
+import ContactUs from './pages/ContactUs'
 function App() {
     useEffect(() => {
    
@@ -19,6 +20,7 @@ function App() {
       <Features></Features>
       <HowitWorks></HowitWorks>
       <EnvironmentalImpact/>
+      <ContactUs/>
       <Footer/>
     </div>
   )
