@@ -4,7 +4,7 @@ import Card from "../components/Card";
 function Features() {
   return (
     <div id="features" className="p-6">
-      <h1 className="text-2xl md:text-6xl text-center font-medium mb-10">
+      <h1 className="text-2xl pt-16 md:text-6xl text-center font-medium mb-10 ">
         Innovative Features
       </h1>
       <div className="flex gap-4 items-center justify-center flex-wrap">
