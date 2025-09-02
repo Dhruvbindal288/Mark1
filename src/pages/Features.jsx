@@ -11,34 +11,34 @@ function Features() {
         <Card
           text="Creates a perpetual cycle of energy that intelligently utilizes power to generate more, defining true sustainability."
           heading="Self-Sustaining Power"
-          icon={FaBolt}
+          Icon={FaBolt}
         />
         <Card
           text="Advanced dynamo control system allowing nuanced adjustment of engine speed for optimal performance."
           heading="Variable Speed Control"
-          icon={FaTachometerAlt}
+          Icon={FaTachometerAlt}
         />
         <Card
           text="Transforms kinetic energy from slowdowns into power, maximizing efficiency and eco-consciousness."
           heading="Regenerative Braking"
-          icon={FaRecycle}
+          Icon={FaRecycle}
         />
         <Card
           text="Brings electricity to remote areas, breaking free from traditional grids and fostering progress everywhere."
           heading="Off-Grid Power Generation"
-          icon={FaSolarPanel}
+          Icon={FaSolarPanel}
         />
         <Card
           text="Comprehensive dashboard for monitoring energy generation, consumption, and efficiency metrics."
           heading="Real-Time Monitoring"
-          icon={FaChartLine}
+          Icon={FaChartLine}
         />
         <Card
           text="Completely eco-friendly system that minimizes environmental impact while maximizing energy output."
           heading="Zero Carbon Emissions"
-          icon={FaLeaf}
+          Icon={FaLeaf}
         />
-      </div>
+      </div> 
     </div>
   );
 }
