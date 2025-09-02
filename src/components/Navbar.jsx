@@ -40,19 +40,19 @@ function Navbar() {
             onClick={() => setIsOpen(false)}
             className="hover:text-green-400 cursor-pointer"
           >
-            Home
+           <a href="#/">Home</a>
           </li>
           <li
             onClick={() => setIsOpen(false)}
             className="hover:text-green-400 cursor-pointer"
           >
-            Features
+           <a href="/#features">Features</a>
           </li>
           <li
             onClick={() => setIsOpen(false)}
             className="hover:text-green-400 cursor-pointer"
           >
-            How it Works
+            <a href="#HowitWorks">How it Works</a>
           </li>
         </ul>
       )}

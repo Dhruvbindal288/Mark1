@@ -20,7 +20,7 @@ function Home() {
         </p>
 
         <button className="text-white rounded-3xl border px-6 py-3 sm:px-8 sm:py-4 md:px-10 md:py-5 mt-6 md:mt-10 bg-green-500 shadow-lg hover:bg-green-600 transition">
-          <a href="/#features">Discover the feature</a>
+          <a href="/#featuresnpm ru">Discover the feature</a>
         </button>
       </div>
 
